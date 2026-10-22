@@ -18,7 +18,7 @@
 - 개인 참가: 데이터 수집, 분석·모델링, 제안서 작성, 화면 시안을 모두 담당
 
 ## 5. 결과
-- ⟪결과 발표 후 기재⟫
+- 제출 완료, 결과 발표 대기 중
 
 ## 6. 사용 기술
 Python · pandas · scikit-learn · NCBI Taxonomy · matplotlib · HTML
