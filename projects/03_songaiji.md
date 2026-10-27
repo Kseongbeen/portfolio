@@ -1,5 +1,7 @@
 # 송AI지 — 한우 농장 HACCP 기록 자동화 앱 기획
 
+> 코드·제출 자료: [Kseongbeen/songaiji-haccp](https://github.com/Kseongbeen/songaiji-haccp)
+
 ## 1. 프로젝트 개요
 한우 농장의 HACCP 기록 부담을 줄이고, 쌓인 기록을 출하 판단 정보로 돌려주는 모바일 앱 「한우 출하노트」를 공공데이터 분석을 바탕으로 기획했습니다. (2026 한국식품안전관리인증원 공공데이터 분석·활용 경진대회, 분석 부문)
 

@@ -1,5 +1,7 @@
 # 효능 내비게이터 — 해양바이오뱅크 계통 기반 효능 예측·추천
 
+> 코드·제출 자료: [Kseongbeen/mabik-efficacy-navigator](https://github.com/Kseongbeen/mabik-efficacy-navigator)
+
 ## 1. 프로젝트 개요
 아직 효능 시험을 하지 않은 해양생물 분양 자원에 효능 가능성을 표시하고, 목적에 맞는 자원을 추천하는 검색 서비스를 제안했습니다. (해양바이오뱅크(MABIK) 아이디어 공모전, 부문 3)
 
